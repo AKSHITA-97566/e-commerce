@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://e-commerc.azurewebsites.net",
+  "proxy": "https://e-commerc.azurewebsites.net:8080",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
